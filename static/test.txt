@@ -1,0 +1,1 @@
+static file test. plse do not put any confidential files in this folder.
